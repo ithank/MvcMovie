@@ -1,0 +1,19 @@
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=MvcMovie
+--content-root=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/HelloWorld/Index.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/HelloWorld/Welcome.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Home/About.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Home/Contact.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Home/Index.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Movies/Create.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Movies/Delete.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Movies/Details.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Movies/Edit.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Movies/Index.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Shared/Error.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/_ViewImports.cshtml
+--file=/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/Views/_ViewStart.cshtml

@@ -1,0 +1,10 @@
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.deps.json
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.dll
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/bin/Release/netcoreapp2.0/MvcMovie.pdb
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.dll
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.pdb
