@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{48E857FC-5184-4B97-A435-3C161314CAB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Views/Movies/Edit.cshtml">
     <Files>
       <File FileName="MvcMovie/Startup.cs" Line="27" Column="29" />
       <File FileName="MvcMovie/MvcMovie.csproj" Line="1" Column="1" />
