@@ -1,15 +1,12 @@
  # Sample contents of Dockerfile
  # Stage 1
  FROM microsoft/aspnetcore-build AS builder
- WORKDIR /source
 
- # caches restore result by copying csproj file separately
- COPY *.csproj .
- RUN dotnet restore
-
- # copies the rest of your code
+ WORKDIR /src
  COPY . .
- RUN dotnet publish --output /app/ --configuration Release
+
+ WORKDIR /src/MvcMovie
+ RUN dotnet publish -o /app/ -c Release
 
  # Stage 2
  FROM microsoft/aspnetcore
