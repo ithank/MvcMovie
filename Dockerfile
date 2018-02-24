@@ -8,6 +8,11 @@
  WORKDIR /src/MvcMovie
  RUN dotnet publish -o /app/ -c Release
 
+
+ # attempt to recreate the database
+ RUN dotnet restore
+ RUN dotnet ef database update
+
  # Stage 2
  FROM microsoft/aspnetcore
  WORKDIR /app
