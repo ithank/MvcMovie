@@ -8,3 +8,4 @@
 /Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
 /Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.dll
 /Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.pdb
+/Volumes/HH_SD64/src/dotNET Core Projects/MvcMovie/MvcMovie/obj/Release/netcoreapp2.0/MvcMovie.csprojResolveAssemblyReference.cache
