@@ -10,11 +10,12 @@
 
 
  # attempt to recreate the database
- RUN dotnet restore
- RUN dotnet build
- RUN dotnet ef database update
+ #RUN dotnet restore
+ #RUN dotnet build
+ #RUN dotnet ef database update
 
 RUN dotnet publish -o /app/ -c Release
+RUN mkdir -p /app/data
 
 
  # Stage 2
