@@ -21,4 +21,8 @@ RUN dotnet publish -o /app/ -c Release
  FROM microsoft/aspnetcore
  WORKDIR /app
  COPY --from=builder /app .
+ EXPOSE 80 
  ENTRYPOINT ["dotnet", "MvcMovie.dll"]
+
+# docker run -d -p 4000:80 -v ./data:/app/data guique/MvcMovie
+## docker run -d -p 4000:80 -v ./data:/app/data <maintainerName>/MvcMovieName:1
