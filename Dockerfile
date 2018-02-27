@@ -16,6 +16,7 @@
 
 RUN dotnet publish -o /app/ -c Release
 RUN mkdir -p /app/data
+RUN dotnet ef database update
 
 
  # Stage 2
